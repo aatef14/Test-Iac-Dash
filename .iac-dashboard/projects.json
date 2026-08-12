@@ -1,0 +1,9 @@
+[
+  {
+    "name": "test-1",
+    "subfolder": "test-1",
+    "deployment": "tf-deployment",
+    "environment": "dev",
+    "cloud_provider": "azure"
+  }
+]
