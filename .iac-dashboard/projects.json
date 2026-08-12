@@ -5,5 +5,12 @@
     "deployment": "tf-deployment",
     "environment": "dev",
     "cloud_provider": "azure"
+  },
+  {
+    "name": "Test-2",
+    "subfolder": "Test-2",
+    "deployment": "tf-deployment",
+    "environment": "dev",
+    "cloud_provider": "azure"
   }
 ]
