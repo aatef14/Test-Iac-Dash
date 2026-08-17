@@ -1,9 +1,1 @@
-[
-  {
-    "name": "my-app-test-1",
-    "subfolder": "my-app-test-1",
-    "deployment": "tf-deployment",
-    "environment": "dev",
-    "cloud_provider": "azure"
-  }
-]
+[]
