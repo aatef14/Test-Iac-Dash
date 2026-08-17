@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "test-project-1",
+    "subfolder": "test-project-1",
+    "deployment": "tf-deployment",
+    "environment": "dev",
+    "cloud_provider": "azure"
+  }
+]
